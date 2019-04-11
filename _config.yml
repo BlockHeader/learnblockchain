@@ -3,7 +3,6 @@
 ## Source: https://github.com/hexojs/hexo/
 
 
-
 # Social Links.
 # Usage: `Key: permalink || icon`
 # Key is the link label showing to end users.
@@ -13,7 +12,7 @@ social:
   GitHub: https://github.com/xilibi2003 || github
   Weibo: http://weibo.com/xilibi2003 || weibo
   知乎: https://www.zhihu.com/people/xiong-li-bing/activities
-  E-Mail: mailto:xilibi2003@gmail.com || envelope
+  E-Mail: mailto:xlb@upchain.pro || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -39,11 +38,12 @@ links:
   区块链入门及比特币: https://wiki.learnblockchain.cn/bitcoin/readme.html
   以太坊开发资源汇总: https://wiki.learnblockchain.cn/ethereum/readme.html
   钱包开发资源汇总: https://learnblockchain.cn/2019/04/11/wallet-dev-guide/
+  以太坊设计与实现: http://learnblockchain.cn/books/geth/
+  solidity中文文档: https://solidity-cn.readthedocs.io
   柚子EOS开发资源汇总: https://wiki.learnblockchain.cn/eos/readme.html
   超级账本开发资源汇总: https://wiki.learnblockchain.cn/hyperledger/readme.html
   IPFS开发资源汇总: https://wiki.learnblockchain.cn/hyperledger/readme.html
   跨链开发资源汇总: https://wiki.learnblockchain.cn/hyperledger/readme.html
-  以太坊设计与实现: http://geth.learnblockchain.cn
   区块链专业分享及问答: https://learnblockchain.cn/images/zsxq.png
   区块链付费小专栏: https://xiaozhuanlan.com/blockchaincore
   友情链接: https://learnblockchain.cn/friends/
@@ -117,6 +117,7 @@ default_category: uncategorized
 category_map:
   以太坊: ethereum
   比特币: bitcoin
+  钱包: wallet
   密码学: cryptography
   跨链: cross_chain
   其他: other
@@ -173,7 +174,7 @@ menu:
   meeting: /categories/dev-meeting/ || th
   course: /course/ || spinner
   web3: https://web3.learnblockchain.cn || book
-  solidity: https://solidity-cn.readthedocs.io || book
+  
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
