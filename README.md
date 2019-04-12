@@ -23,7 +23,7 @@
 1. 先把博客站git clone 到本地，命令如下：
 
 ```
-git clone git@github.com:xilibi2003/learnblockchain.git
+git clone git@github.com:lbc-team/learnblockchain.git
 ```
 
 2. 使用npm install 安装一下依赖
@@ -54,7 +54,7 @@ git checkout blog -b my-blog
 
 ```
     ---
-    title: abc
+    title: 一篇新博客
     permalink: abc
     date: 2019-03-11 18:14:01
     categories:
@@ -74,4 +74,4 @@ git checkout blog -b my-blog
 启动后，在浏览器访问 http://localhost:4000 即可。
 
 
-最后，如果你有什么任何问题，欢迎联系微信：xlbxiong 或 hiblocknet
+最后，如果你有什么任何问题，大胆的提交[Issue](https://github.com/lbc-team/learnblockchain/issues)，也可以勾搭Tiny熊 微信：xlbxiong

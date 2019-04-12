@@ -57,6 +57,7 @@ author: Tiny熊
 * [以太坊客户端Geth命令用法-参数详解](https://learnblockchain.cn/2017/11/29/geth_cmd_options)
 * [Geth控制台使用实战及Web3.js使用](https://learnblockchain.cn/2017/12/01/geth_cmd_short/)
 * [如何搭建以太坊私有链](https://learnblockchain.cn/2018/03/18/create_private_blockchain/)
+* [深入浅出以太坊虚拟机](https://learnblockchain.cn/2019/04/09/easy-evm/)
 
 ### 智能合约及应用开发
 * [程序员如何切入区块链去中心化应用开发](https://learnblockchain.cn/2018/08/31/devDapp/#more)
@@ -147,9 +148,13 @@ author: Tiny熊
 * [14 filecoin源码分析之服务层链同步、共识协议及挖矿](https://learnblockchain.cn/2019/03/09/filecoin-code-analysis-14)
 * [15 filecoin源码分析之节点运行逻辑](https://learnblockchain.cn/2019/03/10/filecoin-code-analysis-15)
 
+## 其他
+
+* [理解去中心化 稳定币 DAI](https://learnblockchain.cn/2019/03/19/understand_dai/)
+
 ## 推荐
 
-**深入浅出只给大家推荐优质内容**，大家也需要理解很多优质内容是需要付费的，这样作者才可持续输出优质内容。
+**深入浅出只给大家推荐优质内容**，也希望大家理解优质内容往往是需要付费的，这样作者才能持续输出优质内容。
 
 推荐大家订阅[深入浅出区块链技术小专栏](https://xiaozhuanlan.com/blockchaincore)，目前仅需69元（不定时涨价哦）， 部分源码和进阶内容仅在小专栏开放，订阅小专栏还有其他惊喜哦~。
 
