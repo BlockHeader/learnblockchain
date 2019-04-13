@@ -13,6 +13,7 @@ author: 代世超 雷达熊
 今天讲一个「给淘金人卖水」的生意。
 
 这一波淘金人就是各种 DeFi 项目（Decentralized Finance 去中心化金融）。
+<!-- more -->
 
 ## DeFi市场的变化
 
