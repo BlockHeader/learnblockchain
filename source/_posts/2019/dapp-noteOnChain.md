@@ -343,7 +343,7 @@ npm run dev
 > 不知道如何设置MetaMask 可阅读[开发、部署第一个去中心化应用(](https://learnblockchain.cn/2018/01/12/first-dapp/)。
 
 
-本文为保持主干清晰，代码有删减， 网站代码请订阅[小专栏](https://xiaozhuanlan.com/blockchaincore)查看。
+本文为保持主干清晰，代码有删减， 完整代码请订阅[小专栏](https://xiaozhuanlan.com/blockchaincore)查看。
 
 
 ## 参考文档
