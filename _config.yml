@@ -168,6 +168,7 @@ theme: next
 menu:
   home: / || home
   wiki: https://wiki.learnblockchain.cn || book
+  etherscan: https://learnblockchain.cn/docs/etherscan/ || book
   about: /about/ || user
   tags: /tags/ || tags
   categories: /categories/ || th
